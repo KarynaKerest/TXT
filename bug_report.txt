@@ -1,1 +1,24 @@
-
+ID: 0016
+Project: Capital.com
+Date: 12.02.2023
+Submitted: No
+Last Update: 13.02.2023
+Reporter: @KeriKerest
+Assigned to: Team lead
+Priority: Low
+Severity: Minor
+Reproducibility: Always
+Status: New
+Resolution: Open
+Platform: Google Chrome 109.0.5414.120
+OS: Windows 10 Pro
+OS Version: 10.0.19044.2486
+Summary: Improvement. The button "to register with google account" is not displayed on the registration form.
+Description: When you click Add to favourite on the page capital.com
+Preconditions: The page capital.com is opened
+Steps to reproduce: 
+1. Click on the button "Add to favourite"
+2. Sign up form is opened
+Actual result: The icon for "google account" is not shown on the button
+Expected result: The icon for "google account" should be displayed on the button
+Additional Information: Ad Blocker is blocking this icon
