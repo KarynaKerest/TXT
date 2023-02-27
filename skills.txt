@@ -1,0 +1,20 @@
+id 1
+name: Manual Testing
+description: Testing the software manually without using any automated tools.
+id 2
+name: Automation Testing
+description: Testing the software using automated tools.
+id 3
+name: API Testing
+description: Testing the application programming interfaces (APIs) used in the software.
+id 4
+name: Performance Testing
+description: Testing the performance of the software under different conditions and loads.
+id 5
+name: Security Testing
+description: Testing the security of the software against different types of attacks.
+id 6
+name: Mobile Testing
+description: Testing the software on mobile devices such as smartphones and tablets.
+
+

@@ -1,0 +1,6 @@
+favorite_movie: Time
+favorite_series: Breaking Bad
+favorite_food: Fish
+favorite_season: Summer
+place_to_visit: New York
+
